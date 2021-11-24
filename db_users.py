@@ -6,22 +6,22 @@ avaliacoesUser = {'Ana':
                     'Rum': 5.0,},
 
             'Marcos':
-                {'Cerveja': 3.0,
+                {'Cerveja': 6.0,
                     'Vinho': 3.5,
                     'Uisque': 5.0,
-                    'Vodka': 3.0,
-                    'Rum': 1.5,},
+                    'Vodka': 7.0,
+                    'Rum': 2.0,},
 
             'Pedro':
-                {'Cerveja': 2.5,
-                    'Vinho': 3.0,},
+                {'Cerveja': 4.0,
+                    'Vinho': 5.0,},
 
             'Claudia':
-                {'Uisque': 3.5,
-                    'Vodka': 3.0,},
+                {'Uisque': 4.5,
+                    'Vodka': 5.0,},
 
             'Adriano':
-                {'Cerveja': 3.0,
+                {'Cerveja': 7.0,
                     'Vinho': 4.0,
                     'Uisque': 2.0,
                     'Vodka': 3.0,
@@ -29,11 +29,11 @@ avaliacoesUser = {'Ana':
 
             'Janaina':
                 {'Cerveja': 3.0,
-                    'Vinho': 4.0,
+                    'Vinho': 7.0,
                     'Vodka': 5.0,},
 
             'Leonardo':
-                {'Cerveja': 4.5,
+                {'Cerveja': 6.0,
                     'Vinho': 8.0,
                     'Uisque': 4.0,
                     'Vodka': 3.0,

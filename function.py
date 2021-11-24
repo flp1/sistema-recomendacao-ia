@@ -54,4 +54,4 @@ def getRecomendacoesUsuario(base,user):
     rankings = [(total/somasimilaridade[item],item) for item , total in totais.items()]
     rankings.sort()
     rankings.reverse()
-    return rankings[0:30] #retorna os 30 primeiros registros
+    return rankings[0:30]

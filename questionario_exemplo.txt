@@ -1,0 +1,12 @@
+1. Selecione apenas as bebidas que você gosta abaixo:
+- Cerveja
+- Uisque
+- Vodka
+- Vinho
+- Rum
+
+
+2. Dê a nota para as bebidas que você gosta:
+ex:
+- Cerveja: 8.0
+- Vinho: 5.0

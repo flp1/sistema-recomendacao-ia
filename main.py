@@ -14,4 +14,4 @@ print(getSimilares(avaliacoesBebidas,'Vinho'))
 print('\n-----------------------------------------')
 
 print('\nRecomendação de bebidas por usuário:')
-print(getRecomendacoesUsuario(avaliacoesUser,'Pedro'))
+print(getRecomendacoesUsuario(avaliacoesUser, 'Gustavo'))
